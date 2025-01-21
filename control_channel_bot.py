@@ -1,6 +1,6 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
-bT = '7617721774:AAGtGSsUz4CeTwRXrt_yRmpf1Upvr0HJTiM' #[Bot Token]
+bT = '7617721774:ABCD' #[Bot Token]
 bot = telebot.TeleBot(bT)
 CHANNELS = ['@username1', '@username2']  #[Channals UserNames and bot must be admin in the channels], accepts up to 50channel.
 current_channel = None # [Current Channal]
