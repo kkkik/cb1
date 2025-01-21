@@ -5,8 +5,8 @@
 ```commandline
 pip install telebot
 ```
+# bot accept too many channel to add channel easy, but channel must have the bot as admin with all premissions
 ```python
-#bot accept too many channel to add channel easy, but channel must have the bot as admin with all premissions
 CHANNELS = ['@username1', '@username2']
 ```
 # Bot Idea
