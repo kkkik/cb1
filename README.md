@@ -16,5 +16,5 @@ CHANNELS = ['@username1', '@username2']
 3. Ease of use: adding channels usernames and upgrade bot as Administrator with change channel info, and send message premission.
 #There is version post in all channels at same time, very useful soon
 ```
-# ≭ Dev : [γεράκι](https://t.me/unredo)
+# ≭ All Love.
 
